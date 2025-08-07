@@ -1,1 +1,19 @@
+# Github101 and Markdown
+## By Pakteema Jitviboon
+
+## What I've Learned So Far:
+
+1. How to use a repository on GitHub  
+   * Created a repository with a README  
+   * Added a new file to the repository  
+2. How to clone a repository to my local computer  
+   * Cloned it using `git clone`  
+   '''
+   git clone https://github.com/pakteemajit/github-practice.git 
+   '''
+3. How to use Markdown to format files  
+   * Practiced and became more familiar with Markdown syntax 
+ 
+
+
 
